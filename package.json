@@ -1,0 +1,12 @@
+{
+  "name": "ludocleta-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "coloro <colorolabs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.0.1",
+    "serverless": "^1.26.0",
+    "serverless-crypt": "^0.0.4"
+  }
+}
